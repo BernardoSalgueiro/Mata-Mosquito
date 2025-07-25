@@ -1,6 +1,9 @@
 🦟 Mata Mosquito – Jogo Interativo
-Mata Mosquito é um jogo simples e divertido criado com HTML5, CSS3 e JavaScript, onde o objetivo é eliminar os mosquitos que aparecem aleatoriamente na tela antes que o tempo acabe. 
-O jogador começa com 3 vidas e precisa ser rápido, pois a cada mosquito perdido, uma vida é descontada. O desafio aumenta conforme o tempo passa!
+
+Mata Mosquito é um jogo simples e divertido criado com HTML5, CSS3 e JavaScript,
+onde o objetivo é eliminar os mosquitos que aparecem aleatoriamente na tela antes que o tempo acabe. 
+O jogador começa com 3 vidas e precisa ser rápido, pois a cada mosquito perdido, uma vida é descontada. 
+O desafio aumenta conforme o tempo passa!
 
 🎮 Como Funciona:
 
